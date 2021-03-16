@@ -1,5 +1,7 @@
 # Descrição do problema
 
+**Fonte**: https://codeforces.com/problemset/problem/36/B
+
 Desde que Kalevitch, um abstracionista famoso de Berlim, ouviu falar de fractais, ele as tornou o tópico principal de suas telas. Toda manhã o artista pegava um pedaço de papel quadriculado e começava a fazer um modelo de sua futura tela. Ele pega um quadrado de n × n quadradinhos e pinta alguns de preto. Depois, ele pega um pedaço limpo de papel e pinta a fractal usando o seguinte algoritmo:
 
 - Passo 1: O papel é dividido em n² quadradinhos idênticos e alguns deles são pintados de preto, de acordo com o modelo.
