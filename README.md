@@ -7,6 +7,8 @@ Desde que Kalevitch, um abstracionista famoso de Berlim, ouviu falar de fractais
 
 Cada passo seguinte repete o passo 2.
 
+![fractal_algorithm](https://user-images.githubusercontent.com/20410205/111264838-fbf51200-8606-11eb-8a1a-29f8ad713b5a.png)
+
 Infelizmente, esse cansativo trabalho demanda tempo demais desse gênio da pintura. Kalevitch sempre sonhou em tornar o processo automático para passar a fazer fractais 3D ou mesmo 4D.
 
 ## Entrada
