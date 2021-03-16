@@ -22,17 +22,6 @@
 //O '+1' é para armazenar o terminador de string '\0' e facilitar a vida
 char modelo[N_MAX][N_MAX];
 
-void mostrar_matriz(char matriz[N_MAX][N_MAX], int n, int m) {
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < m; j++) {
-            //Mostrar caractere por caractere da matriz
-            putchar(matriz[i][j]);
-        }
-        //Ao final de uma linha, precisa do newline
-        putchar('\n');
-    }
-}
-
 //Faz a potencia n^k
 int potencia(int n, int k) {
     //k negativo será desprezado
